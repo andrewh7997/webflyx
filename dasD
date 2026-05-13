@@ -1,0 +1,55 @@
+[33mcommit 37931478f09a17733db0f452215ad651dadc1c13[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m)[m
+Author: Andrewh7997 <Andrewh7997@gmail.com>
+Date:   Tue Feb 10 17:44:53 2026 -0700
+
+    I: I'm Carl
+
+[33mcommit cc2c9d1c401e7bc5bf6fb77092ef47ea648de2d8[m
+Author: Andrewh7997 <Andrewh7997@gmail.com>
+Date:   Tue Feb 10 17:44:11 2026 -0700
+
+    H: Spicy
+
+[33mcommit 5c93638388f3c015f762c17c73badfdf5c8e6f62[m[33m ([m[1;32mmain[m[33m)[m
+Author: Andrewh7997 <Andrewh7997@gmail.com>
+Date:   Thu Feb 5 18:40:58 2026 -0700
+
+    G: added titles
+
+[33mcommit d064c9a21cec1a4200d05a0b6fb432776824bc03[m
+Merge: eda9e84 6ef611a
+Author: Andrewh7997 <Andrewh7997@gmail.com>
+Date:   Thu Feb 5 18:34:09 2026 -0700
+
+    Merge branch 'add_classics'
+    F: Merge branch 'add_classics'
+
+[33mcommit eda9e84fd04e3e76d1b2ed804ea93e726b23a76e[m
+Author: Andrewh7997 <Andrewh7997@gmail.com>
+Date:   Thu Feb 5 18:27:53 2026 -0700
+
+    E: The thing
+
+[33mcommit 6ef611a7f7107a28b81f77642a8cb62c3d42bd2f[m
+Author: Andrewh7997 <Andrewh7997@gmail.com>
+Date:   Tue Feb 3 17:24:15 2026 -0700
+
+    D: do the thing
+
+[33mcommit da2ff91220359e0da6575927c6615498db683753[m
+Author: Andrewh7997 <Andrewh7997@gmail.com>
+Date:   Tue Jan 27 18:31:54 2026 -0700
+
+    C: add quotes
+
+[33mcommit d5f71299776cc03637e9d67e70eed4c79b111401[m
+Author: Andrewh7997 <Andrewh7997@gmail.com>
+Date:   Tue Jan 27 18:20:51 2026 -0700
+
+    B: add more titles
+
+[33mcommit 4ada73c3d851ba91533c7008cef2552f83385bba[m
+Author: Andrewh7997 <Andrewh7997@gmail.com>
+Date:   Sun Jan 25 14:32:38 2026 -0700
+
+    A: add contents.md
